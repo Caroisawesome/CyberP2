@@ -1,0 +1,14 @@
+
+def extract_bin_data(filename):
+    with open(filename, "rb") as binary_file:
+        # Read the whole file at once
+        data = binary_file.read()
+        print(data)
+        return data
+
+        
+if __name__== "__main__":
+
+    filename = sys.argv[1]
+
+    encrypted_AES_message = 
