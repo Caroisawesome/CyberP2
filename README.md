@@ -7,7 +7,7 @@
 4. `key` and `key.pub` is the private and public key pair provided in the sample project. 
 5. `serverPublicKey` is the public key for the server on the cs machines. 
 6. `exported_bytes.bin` contains the packet data from a pcap file that I generated (`out.pcap`) which captured an AES encrypted message, and an RSA encrypted AES key from a client to the ser. 
-7. `lab2_packet.bin` contains the packet data from the pcap that came in the original project folter.
+7. `lab2_packet.bin` contains the packet data from the pcap that came in the original project folder.
 
 ### Run the Attack
 
