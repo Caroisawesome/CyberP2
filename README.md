@@ -2,7 +2,7 @@
 
 ### Files
 1. `attack.py` contains the code to do a buffer overflow on the server.
-2. `sample_client.py` and `sample_server.py` contain the code to run a client and server. 
+2. `sample_client.py` and `sample_server.py` contain the code to run a client and server which was provided in the second tar ball. 
 3. `aes.py` and `rsa.py` were files provided in the original project zip.
 4. `key` and `key.pub` is the private and public key pair provided in the sample project. 
 5. `serverPublicKey` is the public key for the server on the cs machines. 
